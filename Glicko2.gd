@@ -13,7 +13,7 @@ func run_tests():
 	tc.test_volatility()
 	tc.test_ryan_rating()
 	tc.test_ryan_ratingDeviant()
-	tc.test_volatility()
+	tc.test_ryan_volatility()
 
 
 class testCases:
