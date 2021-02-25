@@ -1,6 +1,11 @@
 MIT License
 
-Copyright (c) 2021 nogre
+Adapted from deepy's fork: https://github.com/deepy/glicko2
+Based on lmeyerov's update to Ryan Kirkman's pyglicko2
+https://code.google.com/r/lmeyerov-glicko2update/
+https://code.google.com/p/pyglicko2/
+
+Copyright (c) 2021 Noah Greenstein
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
