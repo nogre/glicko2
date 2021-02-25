@@ -1,6 +1,6 @@
 MIT License
 
-Adapted from deepy's fork: https://github.com/deepy/glicko2
+Adapted from Alex Nordlund's fork: https://github.com/deepy/glicko2
 Based on lmeyerov's update to Ryan Kirkman's pyglicko2
 https://code.google.com/r/lmeyerov-glicko2update/
 https://code.google.com/p/pyglicko2/
